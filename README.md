@@ -1,2 +1,2 @@
 # Form-For-Devs
-A project just to focus on studies
+A simple form, just for studies
